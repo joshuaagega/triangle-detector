@@ -1,10 +1,19 @@
-var one=prompt("enter a value of oneside of the desired triangle");
-var two=prompt("enter a value of  the second  side of the triangle desired");
-var three=prompt("enter a value of the third side of the triangle desired");
-if ( one + two <= three || two + three <= three || one + three <=three)
- else if (one === tw0 && two === three && one === three) {
-  alert ("equilateral triangle");
-}else if (one === two || two === three || one === three){
+function findOut(){
+var hair = document.getElementById('brain').value;
+var eye = document.getElementById('nose').value;
+var teeth = document.getElementById('tounge').value;
+alert(hair);
+var one = parseInt(hair);
+var two = parseInt(eye);
+var three = parseInt(teeth);
+alert(one);
+if ( one + two <= three || two + three <= three || one + three <= three){
+ alert("not a triangle at all");
+}else if (one === two && two === three && one === three) {
+ alert ("equilateral triangle");
+}else if (one != two && two != three && one != three){
+ alert ("scalene triangle");
+}else {
  alert ("isosles triangle");
 }
-else
+}
