@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 ## #THE TRIANGLE DETECTOR.
 
 \#Project description.
 \*\*{This is an application that uses dijits to detect types of triangles;
+=======
+##THE TRIANGLE DETECTOR.
+---
+##Project description.
+**This is an application that uses dijits to detect types of triangles;
+>>>>>>> gh-pages
   it can detect three types of triangles eg. Equilateral triangles that
   have all sides equal,Isosles triangle that has two sides equal and the
   Scalene triangle that has no side which are equal.Also the sum of two sides
   of the triangle must not exceed the third value therefore it woun't give a
+<<<<<<< HEAD
 
 # triangle.}\*
 
@@ -59,3 +67,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.}
+=======
+  triangle.**
+---
+##Authors Information.
+*Joshua Agega ; a programming student at Moringa school.*
+
+---
+##Set up Instructions
+|**Input**
+|*first dijit
+|
+|
+|
+|
+|
+|
+---
+##Technologies used.
+*html.*
+*CSS.*
+*JavaScript.*
+*these are the technologies that have been used to make the application.*
+
+##Contact information.
+*email;javanmega0@gmail.com*
+---
+##Licence & Copyrite.
+*(c) Joshua Agega , Website developer.*
+>>>>>>> gh-pages
