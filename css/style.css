@@ -14,3 +14,8 @@ body {
 @media screen and {
   min- width: 800px max- width:1200px
 }
+.nose {
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+color: #3F95E8;
+}
