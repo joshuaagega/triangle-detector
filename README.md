@@ -1,4 +1,4 @@
-##THE TRIANGLE DETECTOR.
+#THE TRIANGLE DETECTOR.
 ---
 #Project description.
 **{This is an application that uses dijits to detect types of triangles;
@@ -8,11 +8,11 @@
   of the triangle must not exceed the third value therefore it woun't give a
   triangle.}**
 ---
-##Authors Information.
+#Authors Information.
 *{Joshua Agega ; a programming student at Moringa school.}*
 
 ---
-##Set up Instructions
+#Set up Instructions
 |**{Input}**
 |*
 |
