@@ -1,17 +1,16 @@
-.head{
-text-align: center;
-color: #7191B0;
-font-family: 'Coiny', cursive;
-
+.head {
+  text-align: center;
+  color: #7191B0;
+  font-family: 'Coiny', cursive;
 }
+
 body {
-text-align: center;
-background-color: #181A1C;
-font-family: 'Arvo', serif;
+  text-align: center;
+  background-color: #181A1C;
+  font-family: 'Arvo', serif;
 }
 
 /*MEDIA QUERIES*/
 @media screen and {
-   min- width:800px
-   max- width:1200px 
+  min- width: 800px max- width:1200px
 }
