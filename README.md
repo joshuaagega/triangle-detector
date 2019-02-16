@@ -22,4 +22,4 @@
 |
 |
 ---
-##Technologies used
+##Technologies used.
