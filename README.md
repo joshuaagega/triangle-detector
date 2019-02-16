@@ -1,2 +1,3 @@
 ##THE TRIANGLE DETECTOR.
-##Project description. 
+---
+##Project description.
