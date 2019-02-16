@@ -9,3 +9,9 @@ text-align: center;
 background-color: #181A1C;
 font-family: 'Arvo', serif;
 }
+
+/*MEDIA QUERIES*/
+@media screen and {
+   min- width:800px
+   max- width:1200px 
+}
