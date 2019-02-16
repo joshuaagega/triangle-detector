@@ -12,3 +12,14 @@
 *Joshua Agega ; a programming student at Moringa school.*
 
 ---
+##Set up Instructions
+|**Input**
+|*first dijit
+|
+|
+|
+|
+|
+|
+---
+##Technologies used
