@@ -32,3 +32,4 @@
 *email;javanmega0@gmail.com*
 ---
 ##Licence & Copyrite.
+*(c) Joshua Agega , Website developer.*
