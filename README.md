@@ -27,3 +27,8 @@
 *CSS.*
 *JavaScript.*
 *these are the technologies that have been used to make the application.*
+
+##Contact information.
+*email;javanmega0@gmail.com*
+---
+##Licence & Copyrite.
