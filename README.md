@@ -23,3 +23,7 @@
 |
 ---
 ##Technologies used.
+*html.*
+*CSS.*
+*JavaScript.*
+*these are the technologies that have been used to make the application.*
