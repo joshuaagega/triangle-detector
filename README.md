@@ -7,12 +7,12 @@
   Scalene triangle that has no side which are equal.Also the sum of two sides
   of the triangle must not exceed the third value therefore it woun't give a
 
-## triangle.}\*\*
+# triangle.}\*
 
 \#Authors Information.
 _{Joshua Agega ; a programming student at Moringa school.}_
 
-* * *
+**
 
 \#Set up Instructions
 \|**{Input}**
