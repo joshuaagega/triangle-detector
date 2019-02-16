@@ -25,9 +25,9 @@
 }
 ---
 { |Behavior                       input;           output;
-  |                               The first side;1  scalene.
-  |none of the sides are equal    The seond side;2
-  |                               The third side;4
+  |                               The first side;7  scalene.
+  |none of the sides are equal    The seond side;5
+  |                               The third side;8
 }
 ---
 { |Behavior                      input;            output;
