@@ -19,13 +19,13 @@
 }
 ---
 { |Behavior                 input;             output;
-  |                         The first side;1    Isosles.
-  |two sides must be equal  The second side;1
-  |                         The third side; 2
+  |                         The first side;2    Isosles triangle.
+  |two sides must be equal  The second side;2
+  |                         The third side; 3
 }
 ---
 { |Behavior                       input;           output;
-  |                               The first side;7  scalene.
+  |                               The first side;7  scalene triangle.
   |none of the sides are equal    The seond side;5
   |                               The third side;8
 }
