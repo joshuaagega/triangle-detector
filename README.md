@@ -9,4 +9,6 @@
   triangle.**
 ---
 ##Authors Information.
-*Joshua Agega ; a programming student at Moringa school.
+*Joshua Agega ; a programming student at Moringa school.*
+
+---
