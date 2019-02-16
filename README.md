@@ -8,3 +8,5 @@
   of the triangle must not exceed the third value therefore it woun't give a
   triangle.**
 ---
+##Authors Information.
+*Joshua Agega ; a programming student at Moringa school.
