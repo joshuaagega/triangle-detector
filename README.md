@@ -1,42 +1,46 @@
-#THE TRIANGLE DETECTOR.
----
-#Project description.
-**{This is an application that uses dijits to detect types of triangles;
+## #THE TRIANGLE DETECTOR.
+
+\#Project description.
+\*\*{This is an application that uses dijits to detect types of triangles;
   it can detect three types of triangles eg. Equilateral triangles that
   have all sides equal,Isosles triangle that has two sides equal and the
   Scalene triangle that has no side which are equal.Also the sum of two sides
   of the triangle must not exceed the third value therefore it woun't give a
-  triangle.}**
----
-#Authors Information.
-*{Joshua Agega ; a programming student at Moringa school.}*
 
----
-#Set up Instructions
-|**{Input}**
-|*
-|
-|
-|
-|
-|
-|
----
-##Technologies used.
-*{html.}*
-*{CSS.}*
-*{JavaScript.}*
-*{these are the technologies that have been used to make the application.}*
+## triangle.}\*\*
 
-##Contact information.
-*{email;javanmega0@gmail.com}*
----
-##Licence & Copyrite.
-*{(c) Joshua Agega , Website developer.}*
-*{The licence used in this application information is statted below
+\#Authors Information.
+_{Joshua Agega ; a programming student at Moringa school.}_
+
+* * *
+
+\#Set up Instructions
+\|**{Input}**
+|\*
+\|
+\|
+\|
+\|
+\|
+
+## \|
+
+\##Technologies used.
+_{html.}_
+_{CSS.}_
+_{JavaScript.}_
+_{these are the technologies that have been used to make the application.}_
+
+\##Contact information.
+
+## _{email;javanmega0@gmail.com}_
+
+\##Licence & Copyrite.
+_{(c) Joshua Agega , Website developer.}_
+\*{The licence used in this application information is statted below
   MIT License
 
-Copyright (c) [year] [Joshua Agega]
+Copyright (c) [year][joshua agega]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
