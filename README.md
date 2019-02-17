@@ -26,7 +26,7 @@
 ---
 { |Behavior                       input;           output;
   |                               The first side;7  scalene triangle.
-  |none of the sides are equal    The seond side;5
+  |none of the sides are equal    The second side;5
   |                               The third side;8
 }
 ---
