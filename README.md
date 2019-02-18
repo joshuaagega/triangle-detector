@@ -12,29 +12,29 @@
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ---
 ## BDD
-{|Behavior                 | input;            | output;
+ |Behavior                 | input;            | output;
  |                         | The first side;1  |    Equilateral triangle.
  |all sides must be equal  | The second side;1 |
  |                         | The third side ;1 |
-}
+
 ---
-{ |Behavior                | input;            | output;
-  |                        | The first side;2  |  Isosles triangle.
-  |two sides must be equal | The second side;2 |
-  |                        | The third side; 3 |
-}
+ |Behavior                | input;            | output;
+ |                        | The first side;2  |  Isosles triangle.
+ |two sides must be equal | The second side;2 |
+ |                        | The third side; 3 |
+
 ---
-{ |Behavior                      | input;            | output;
-  |                              | The first side;7  | scalene triangle.
-  |none of the sides are equal   | The second side;5 |
-  |                              | The third side;8  |
-}
+ |Behavior                      | input;            | output;
+ |                              | The first side;7  | scalene triangle.
+ |none of the sides are equal   | The second side;5 |
+ |                              | The third side;8  |
+
 ---
-{ |Behavior                     | input;            | output;
-  |                             | The first side;2  | not a triangle at all.   
-  |the sum of either sides      | The second side;4 |
-  |is more than the third side  | The third side;8  |
-}
+ |Behavior                     | input;            | output;
+ |                             | The first side;2  | not a triangle at all.   
+ |the sum of either sides      | The second side;4 |
+ |is more than the third side  | The third side;8  |
+
 ## Authour
 { Joshua Agega .Student at Moringa school. }
 ## Technologies Used
