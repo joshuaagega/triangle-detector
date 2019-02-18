@@ -13,7 +13,8 @@
 ---
 ## BDD
 | Behavior                     | input;            | output;              |
-|                             | The first side;1  |  Equilateral triangle.|
+|------------------------------|-------------------|----------------------|
+|                              | The first side;1  |  Equilateral triangle.|
 | all sides must be equal      | The second side;1 |                      |
 |                             | The third side ;1 |                       |
 |                             | The first side;2  |  Isosles triangle.    |
@@ -25,6 +26,10 @@
 |                             | The first side;2  |  not a triangle at all.|   
 | the sum of either sides      | The second side;4 |                       |
 | is more than the third side  | The third side;8  |                       |
+
+| Header One     | Header Two     |
+| :------------- | :------------- |
+| Item One       | Item Two       |
 
 ## Authour
 { Joshua Agega .Student at Moringa school. }
