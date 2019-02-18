@@ -27,9 +27,6 @@
 | the sum of either sides      | The second side;4 |                       |
 | is more than the third side  | The third side;8  |                       |
 
-| Header One     | Header Two     |
-| :------------- | :------------- |
-| Item One       | Item Two       |
 
 ## Authour
 { Joshua Agega .Student at Moringa school. }
