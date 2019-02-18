@@ -1,5 +1,5 @@
-# {The Triangle Detector }
-## {Project  Description }
+# The Triangle Detector
+## Project  Description 
 This is an application that detects a type of triangle using digits.
  It checks whether the dijits match the properties of a triangle whether it
  is Equlateral, Isosles or Scalene.The link to the project is here;https://github.com/joshuaagega/triangle-detector.
