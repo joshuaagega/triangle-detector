@@ -18,19 +18,13 @@
 |                         | The third side ;1 |
 
 ---
-|Behavior                | input;            | output;
-|                        | The first side;2  |  Isosles triangle.
-|two sides must be equal | The second side;2 |
-|                        | The third side; 3 |
-
----
-|Behavior                      | input;            | output;
-|                              | The first side;7  | scalene triangle.
-|none of the sides are equal   | The second side;5 |
-|                              | The third side;8  |
-
----
 |Behavior                     | input;            | output;
+|                             | The first side;2  |  Isosles triangle.
+|two sides must be equal      | The second side;2 |
+|                             | The third side; 3 |
+|                             | The first side;7  | scalene triangle.
+|none of the sides are equal  | The second side;5 |
+|                             | The third side;8  |
 |                             | The first side;2  | not a triangle at all.   
 |the sum of either sides      | The second side;4 |
 |is more than the third side  | The third side;8  |
